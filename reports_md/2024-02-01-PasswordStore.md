@@ -186,11 +186,6 @@ if(msg.sender != s_owner){
 }
 ```
 
-## Likelihood & Impact:
--Impact: HIGH
--Likelihood: HIGH
--Severity: HIGH
-
 ### [I-1] The `PasswordStore::getPassword` natspec indicates a parameter that doesn't exist, causing the natspec to be incorrect
 
 **Description:** 
